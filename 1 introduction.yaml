@@ -1,0 +1,14 @@
+- topicname: Python Introduction
+- author: 
+  - firstname: Vasudev
+  - lastname: Vashisht
+- dateofcreation: 12/31/2020
+- type: article
+- heading: Python Introduction
+- subheading: Monty Python's Flying Circus
+- contents:
+  - sequencenumber: 1
+  - type: paragraph
+  - heading: Python, The Circus
+  - text: When Guido Van Rossum began working on an experimental language during the christmas holidays in 1989, little did he know that he had stumbled on something unique and significant. The invention of Python would immersively establish itself in the years to come.
+  - text: When Guido Van Rossum began working on an experimental language during the christmas holidays in 1989, little did he know that he had stumbled on something unique and significant. The invention of Python would immersively establish itself in the years to come.
